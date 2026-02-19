@@ -1,9 +1,9 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "v88_jin18_raw": {
-      "api": "https://pz.v88.qzz.io?format=0&source=jin18",
-      "name": "V88精简版(原始)",
+    "v88_full_raw": {
+      "api": "https://pz.v88.qzz.io?format=0&source=full",
+      "name": "V88完整版(原始)",
       "detail": "https://pz.v88.qzz.io"
     }
   }
