@@ -1,11 +1,15 @@
 {
   "cache_time": 7200,
   "api_site": {
-    // ... 已有的其他源
-    "v88": {                         // 源标识（可自定义，建议用英文/数字）
+    "v88": {
       "api": "https://pz.v88.qzz.io?format=0&source=full",
-      "name": "V88资源",              // 显示名称
-      "detail": "https://pz.v88.qzz.io"  // 可选，播放页域名
+      "name": "V88资源",
+      "detail": "https://pz.v88.qzz.io"
+    },
+    "备用源": {
+      "api": "https://其他接口地址/api.php/provide/vod",
+      "name": "备用资源",
+      "detail": "https://其他接口地址"
     }
   }
 }
